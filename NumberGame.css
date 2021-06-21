@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(22, 134, 22);
+    color:rgb(247, 164, 63);
+    text-align: center;
+    text-shadow: 3px lightskyblue;
+    font-size: 35px;
+    font-style: italic;
+    font-family:'serif'; 
+}
+
+#container{
+    background-color:rgb(73, 52, 15);
+    border:10px solid rgb(187, 19, 103);
+    height:450px;
+    width:650px;
+    margin:auto;
+    text-align: center;
+    /* padding:auto; */
+  
+}
+p{
+    color:white;
+    font-size: 35px;
+}
+   
+#input{
+    width:500px;
+    margin:30px auto;
+}
+
+
+#btn{
+    /* background-color: violet;
+    color: rgb(10, 10, 10); */
+    margin:25px auto auto 25px;
+}
